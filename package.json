@@ -1,0 +1,19 @@
+{
+  "name": "px2other",
+  "description": "px2Other unit based on px2rem",
+  "version": "1.0.0",
+  "author": "horsefefe",
+  "mail":"z_fefe@sina.com",
+  "dependencies": {
+    "css": "~2.2.0",
+    "extend": "~3.0.0",
+    "commander": "~2.6.0",
+    "chalk": "~0.5.1",
+    "fs-extra": "~0.16.3"
+  },
+  "main": "index.js",
+  "keywords": [
+    "px2Other"
+  ],
+  "license": "MIT"
+}
